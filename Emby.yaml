@@ -1,5 +1,5 @@
 # 来源： https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
-# 最后更新时间：2024-12-15 14:30
+# 最后更新时间：2025-07-29 12:28
 ##### A #####
 # ACA & MisakaF
 payload:
@@ -230,6 +230,7 @@ payload:
 ##### S #####
 # SaturDay.Lite
   - DOMAIN-SUFFIX,lite.saturday.video
+  - DOMAIN-SUFFIX,lite.saturdayvideo.top
 # SYN
   - DOMAIN-SUFFIX,stream.synn.cc
   - DOMAIN-SUFFIX,stream.ntrrr.top
@@ -253,6 +254,11 @@ payload:
   - DOMAIN-SUFFIX,studyfun.live
 # SoCloud
   - DOMAIN-SUFFIX,emby.run
+# Shrek  
+  - DOMAIN-SUFFIX,public.shrekmedia.org
+# Star
+  - DOMAIN-SUFFIX,staryuki.me
+  - DOMAIN-SUFFIX,staryuki.me.kiven.cc 
 ##### T #####
 # 探花TV(Jellyfin Porn)
   - DOMAIN-SUFFIX,tanhuatv.site
@@ -302,6 +308,7 @@ payload:
 # Zox/AcEmby
   - DOMAIN-SUFFIX,zox.show
   - DOMAIN-SUFFIX,acemby.org
+  - DOMAIN-SUFFIX,zoxfree.3767483.xyz
 # 梓澪の妙妙屋
   - DOMAIN-SUFFIX,zi0.icu
 ##### 0-9 #####
