@@ -152,11 +152,11 @@ payload:
   - DOMAIN-SUFFIX,agsvpt.com
   - DOMAIN-SUFFIX,aidoru-online.me
   - DOMAIN-SUFFIX,alpharatio.cc
-  - DOMAIN-SUFFIX,animetorrents.me
+# - DOMAIN-SUFFIX,animetorrents.me
   - DOMAIN-SUFFIX,anthelion.me
   - DOMAIN-SUFFIX,asiancinema.me
   - DOMAIN-SUFFIX,audiences.me
-  - DOMAIN-SUFFIX,avistaz.to
+# - DOMAIN-SUFFIX,avistaz.to
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,beitai.pt
   - DOMAIN-SUFFIX,beyond-hd.me
@@ -177,7 +177,7 @@ payload:
   - DOMAIN-KEYWORD,chdbits
   - DOMAIN-SUFFIX,cinemageddon.net
   - DOMAIN-SUFFIX,cinematik.net
-  - DOMAIN-SUFFIX,cinemaz.to
+# - DOMAIN-SUFFIX,cinemaz.to
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
   - DOMAIN-SUFFIX,concertos.live
   - DOMAIN-SUFFIX,creditracker.net
@@ -187,7 +187,7 @@ payload:
   - DOMAIN-SUFFIX,eastgame.org
   - DOMAIN-SUFFIX,empornium.me
   - DOMAIN-SUFFIX,et8.org
-  - DOMAIN-SUFFIX,exoticaz.to
+# - DOMAIN-SUFFIX,exoticaz.to
   - DOMAIN-SUFFIX,extremlymtorrents.ws
   - DOMAIN-SUFFIX,filelist.io
   - DOMAIN-SUFFIX,gainbound.net
@@ -200,7 +200,7 @@ payload:
   - DOMAIN-SUFFIX,hdarea.co
   - DOMAIN-SUFFIX,hdatmos.club
   - DOMAIN-SUFFIX,hdbd.us
-  - DOMAIN-SUFFIX,hdbits.org
+# - DOMAIN-SUFFIX,hdbits.org
   - DOMAIN-SUFFIX,hdchina.org
   - DOMAIN-SUFFIX,hdcity.city
   - DOMAIN-SUFFIX,hddolby.com
@@ -246,7 +246,7 @@ payload:
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,passthepopcorn.me
   - DOMAIN-SUFFIX,pornbits.net
-  - DOMAIN-SUFFIX,privatehd.to
+# - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,pterclub.com
   - DOMAIN-SUFFIX,pthome.net
   - DOMAIN-SUFFIX,ptpimg.me
@@ -268,7 +268,7 @@ payload:
   - DOMAIN-SUFFIX,torrentseeds.org
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,trontv.com
-  - DOMAIN-SUFFIX,u2.dmhy.org
+# - DOMAIN-SUFFIX,u2.dmhy.org
   - DOMAIN-SUFFIX,uhdbits.org
   - DOMAIN-SUFFIX,xauat6.edu.cn
   - DOMAIN-SUFFIX,zhuque.in
@@ -327,7 +327,7 @@ payload:
   - DOMAIN-SUFFIX,digitalcore.club
   - DOMAIN-SUFFIX,digitalhive.org
   - DOMAIN-SUFFIX,dvdseed.eu
-  - DOMAIN-SUFFIX,empornium.is
+# - DOMAIN-SUFFIX,empornium.is
   - DOMAIN-SUFFIX,empornium.sx
   - DOMAIN-SUFFIX,empornium.ph
   - DOMAIN-SUFFIX,esharenet.eu
