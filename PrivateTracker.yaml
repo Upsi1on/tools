@@ -1,7 +1,7 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-29 12:05:32
+# UPDATED: 2026-01-03 14:20:32
 # DOMAIN: 137
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 122
@@ -284,7 +284,6 @@ payload:
   - DOMAIN-SUFFIX,acid-lounge.org.uk
   - DOMAIN-SUFFIX,aftershock-tracker.eu
   - DOMAIN-SUFFIX,aither.cc
-  - DOMAIN-SUFFIX,animetorrents.me
   - DOMAIN-SUFFIX,arabp2p.com
   - DOMAIN-SUFFIX,arabafenice.me
   - DOMAIN-SUFFIX,artofmisdirection.com
@@ -328,8 +327,8 @@ payload:
   - DOMAIN-SUFFIX,digitalhive.org
   - DOMAIN-SUFFIX,dvdseed.eu
 # - DOMAIN-SUFFIX,empornium.is
-  - DOMAIN-SUFFIX,empornium.sx
-  - DOMAIN-SUFFIX,empornium.ph
+# - DOMAIN-SUFFIX,empornium.sx
+# - DOMAIN-SUFFIX,empornium.ph
   - DOMAIN-SUFFIX,esharenet.eu
   - DOMAIN-SUFFIX,estone.cc
   - DOMAIN-SUFFIX,exigomusic.org
@@ -479,7 +478,9 @@ payload:
   - DOMAIN-SUFFIX,tracker.keepfrds.com
   - DOMAIN-SUFFIX,tracker01.ilovelemonhd.me
   - DOMAIN-KEYWORD,agsvpt                     
-  - DOMAIN-SUFFIX,agsvpt.trackers.work         
+  - DOMAIN-SUFFIX,agsvpt.trackers.work       
+  - DOMAIN-SUFFIX,agsvpt.cn    
+  - DOMAIN-SUFFIX,agsvpt.com
   - DOMAIN-SUFFIX,tracker.agsvpt.cn           
   - DOMAIN-SUFFIX,ipv6.agsvpt.cn 
   - DOMAIN-SUFFIX,new.qingwa.pro              
@@ -503,7 +504,46 @@ payload:
   - DOMAIN-SUFFIX,star-space.net
   - DOMAIN-SUFFIX,ubits.club
   - DOMAIN-SUFFIX,uhd100.com
-  - DOMAIN-SUFFIX,gazellegames.net
+  - DOMAIN-SUFFIX,ptskit.com
+  - DOMAIN-SUFFIX,ptskit.org
+  - DOMAIN-SUFFIX,playletpt.xyz
+  - DOMAIN-SUFFIX,yemapt.org
+  - DOMAIN-SUFFIX,ilolicon.com
+  - DOMAIN-SUFFIX,htpt.cc
+  - DOMAIN-SUFFIX,azusa.wiki
+  - DOMAIN-SUFFIX,kufei.org
+  - DOMAIN-SUFFIX,xingtan.one
+  - DOMAIN-SUFFIX,raingfh.top
+  - DOMAIN-SUFFIX,crabpt.vip
+  - DOMAIN-SUFFIX,cyanbug.net
+  - DOMAIN-SUFFIX,ptchina.org
+  - DOMAIN-SUFFIX,zmpt.cc
+  - DOMAIN-SUFFIX,wintersakura.net
+  - DOMAIN-SUFFIX,carpt.net
+  - DOMAIN-SUFFIX,ptcafe.club
+  - DOMAIN-SUFFIX,monikadesign.uk
+  - DOMAIN-SUFFIX,sunnypt.top
+  - DOMAIN-SUFFIX,dragonhd.xyz
+  - DOMAIN-SUFFIX,pt.0ff.cc
+  - DOMAIN-SUFFIX,rousi.zip
+  - DOMAIN-SUFFIX,okpt.net
+  - DOMAIN-SUFFIX,tmpt.top
+  - DOMAIN-SUFFIX,cspt.top
+  - DOMAIN-SUFFIX,sewerpt.com
+  - DOMAIN-SUFFIX,hdbao.cc
+  - DOMAIN,hudbt.hust.edu.cn
+  - DOMAIN,pt.btschool.club
+  - DOMAIN,pt.xingyungept.org
+  - DOMAIN,img.xingyungept.org
+  - DOMAIN,img.xingyungept.cn
+  - DOMAIN-SUFFIX,qingwapt.org
+  - DOMAIN,pt.novahd.top
+  - DOMAIN-SUFFIX,cangbao.ge
+  - DOMAIN-SUFFIX,bilibili.download
+  - DOMAIN,pt.aling.de
+  - DOMAIN,pt.luckpt.de
+  - DOMAIN-SUFFIX,13city.org
+  - DOMAIN-SUFFIX,duckboobee.org
+  - DOMAIN-SUFFIX,tokyopt.xyz
   - DOMAIN-SUFFIX,pterclub.net
-  
-  
+  - DOMAIN-SUFFIX,gazellegames.net
