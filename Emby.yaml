@@ -100,6 +100,7 @@ payload:
   # 卷毛鼠
   - DOMAIN-SUFFIX,mini.jmsuper.com
   - DOMAIN-SUFFIX,nano.jmsuper.com
+  - DOMAIN-SUFFIX,mini.cr18.eu.org
 ##### K #####
 # 卡戎
   - DOMAIN-SUFFIX,charontv.com
@@ -118,6 +119,8 @@ payload:
 # 蓝海
   - DOMAIN-SUFFIX,blueseacdn.com
   - IP-CIDR,212.90.120.164/32,no-resolve
+# 乐蛙
+  - DOMAIN-SUFFIX,taotu.ink
 ##### M #####
 # MeFunVIP(V_AllEmbyServe)
   - DOMAIN-SUFFIX,ii00.cc
@@ -188,6 +191,7 @@ payload:
 # PandaTV(熊猫)
   - DOMAIN-SUFFIX,pdatv.cc
   - DOMAIN-SUFFIX,kr.pdatv.cc
+  - DOMAIN-SUFFIX,pdtvs.com
 # PiliPili
   - DOMAIN-SUFFIX,emby77.cf
   - SUFFIX,emby77.org
